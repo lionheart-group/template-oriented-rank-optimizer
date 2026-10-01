@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository has moved.** Development continues in the monorepo [lionheart-group/wp-template-oriented-plugins](https://github.com/lionheart-group/wp-template-oriented-plugins/tree/master/plugins/tonkatsu-seo), with the full history. This repository is archived and no longer updated.
+
 # TONKATSU
 
 ![TONKATSU — Template-Oriented No-database Knowledge-graph & Tag Setup Utility for WordPress](.github/banner-1544x500.jpg)
